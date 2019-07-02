@@ -1,13 +1,15 @@
 {
-  "description": "ecliet",
-  "setting": {
-    "urlCheck": true,
-    "es6": false,
-    "postcss": false,
-    "minified": false
-  },
-  "compileType": "miniprogram",
-  "appid": "wxe3ad57214acba7a2",
-  "projectname": "ecliet",
-  "miniprogramRoot": "./dist"
+	"description": "ecliet",
+	"setting": {
+		"urlCheck": true,
+		"es6": false,
+		"postcss": false,
+		"minified": false,
+		"newFeature": true
+	},
+	"compileType": "miniprogram",
+	"appid": "wxe3ad57214acba7a2",
+	"projectname": "ecliet",
+	"miniprogramRoot": "dist/",
+	"condition": {}
 }
